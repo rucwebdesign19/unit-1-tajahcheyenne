@@ -22,6 +22,6 @@ h1{
 
   and (min-device-width: 600px, 75vw)
 
-  and (max-device-width: 900px, 50vw)
+  and (min-device-width: 900px, 50vw)
 
 }
