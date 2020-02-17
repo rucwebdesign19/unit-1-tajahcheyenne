@@ -15,17 +15,20 @@ h1, h2{
   line-height: 1.5;
 }
 h1{
-  font-size: 2em
+  font-size: 2em;
 }
 .maintext{
   @media only screen
 
-  and (min-device-width: 600px, 75vw)
+  and (min-device-width: 600px, 75vw);
 
-  and (min-device-width: 900px, 50vw)
+  and (min-device-width: 900px, 50vw);
 
 }
 .maintext
 .indexbody{
-  height: 75vh
+  height: 75vh;
+}
+.indexbody{
+
 }
