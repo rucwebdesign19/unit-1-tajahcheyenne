@@ -26,10 +26,10 @@ h1{
   and (min-device-width: 900px, 50vw);
 
 }
-.maintext
+.maintext,
 .indexbody{
   height: 75vh;
 }
 .indexbody{
-  background: url('downloads/whale.jpg');
+  background: url("img/whale.jpg");
 }
