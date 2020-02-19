@@ -32,5 +32,5 @@ h1{
   height: 75vh;
 }
 .indexbody{
-  background: url("img/whale.jpg");
+  background-image: url("whale.jpg");
 }
