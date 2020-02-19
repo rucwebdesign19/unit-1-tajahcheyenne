@@ -3,9 +3,9 @@
 }
 @media only screen
 
-and (device-width < 600px)
+and (width < 600px)
 
-and (device-width < 900px)
+and (width < 900px)
 
 body {
   font-size: 1.3em;
@@ -22,9 +22,9 @@ h1{
 .maintext{
   @media only screen
 
-  and (device-width < 600px, 75vw);
+  and (width < 600px, 75vw);
 
-  and (device-width < 900px, 50vw);
+  and (width < 900px, 50vw);
 
 }
 .maintext,
