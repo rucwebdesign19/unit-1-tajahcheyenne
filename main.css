@@ -1,5 +1,7 @@
 :root {
   font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans,Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-size: 1.3em;
+  line-height: 1.5;
 }
 @media only screen and (min-width: 600px) {
   .maintext{
@@ -7,16 +9,12 @@
   }
 }
 
-@media only scrren and (min-width: 900px) {
+@media only screen and (min-width: 900px) {
   .maintext{
     max-width: 50vw
   }
 }
 
-body {
-  font-size: 1.3em;
-  line-height: 1.5;
-}
 h1,
 h2{
   font-family: 'Arvo', serif;
