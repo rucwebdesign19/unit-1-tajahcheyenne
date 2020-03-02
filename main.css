@@ -35,3 +35,6 @@ h1{
 #bookauthor {
   margin: 0px;
 }
+ul {
+  list-style-type: none;
+}
