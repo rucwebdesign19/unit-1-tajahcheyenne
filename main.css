@@ -70,4 +70,5 @@ body {
 }
 .whalepics{
   max-width: 100%;
+  float: left;
 }
