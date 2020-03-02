@@ -28,3 +28,7 @@ h1{
   height: 75vh;
   background-image: url("whale.jpg.jpg");
 }
+#booktitle,
+#bookauthor {
+  margin: 0px;
+}
