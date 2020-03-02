@@ -37,4 +37,6 @@ h1{
 }
 ul {
   list-style-type: none;
+  padding: 1em;
+  width: 100%; 
 }
