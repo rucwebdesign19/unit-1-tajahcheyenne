@@ -56,9 +56,12 @@ html * {
     flex-wrap: wrap;
     -webkit-box-shadow: 7px 5px 6px 2px rgba(0,0,0,0.75);
     -moz-box-shadow: 7px 5px 6px 2px rgba(0,0,0,0.75);
-    box-shadow: 7px 5px 6px 2px rgba(0,0,0,0.75);  
+    box-shadow: 7px 5px 6px 2px rgba(0,0,0,0.75);
 }
 
 body {
     margin: 0;
+}
+.whalepics{
+  max-width: 100%;
 }
