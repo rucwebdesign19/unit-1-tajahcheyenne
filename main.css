@@ -28,3 +28,6 @@ h1{
   height: 75vh;
   background-image: url("whale.jpg.jpg");
 }
+#bookauthor{
+  line-height: 1.0;
+}
