@@ -26,8 +26,9 @@ h1{
 
 .indexbody{
   height: 75vh;
-  background-image: url("whale.jpg.jpg");
   background-color: #AECFF2;
+  background-image: url("whale.jpg.jpg");
+
 }
 #booktitle,
 #bookauthor {
