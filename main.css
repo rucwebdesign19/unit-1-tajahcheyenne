@@ -41,7 +41,7 @@ ul {
 .chapnav{
   padding: 1em;
   width: 100%;
-  background-color: #7390B2; 
+  background-color: #7390B2;
 }
 html * {
 
@@ -54,6 +54,9 @@ html * {
     margin: 0;
     padding: 0;
     flex-wrap: wrap;
+    -webkit-box-shadow: 17px 16px 16px 2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 17px 16px 16px 2px rgba(0,0,0,0.75);
+    box-shadow: 17px 16px 16px 2px rgba(0,0,0,0.75);
 }
 
 body {
