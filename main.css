@@ -38,5 +38,21 @@ h1{
 ul {
   list-style-type: none;
   padding: 1em;
-  width: 100%; 
+  width: 100%;
+}
+html * {
+
+    box-sizing: border-box;
+}
+
+.chapnav ul {
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+    flex-wrap: wrap;
+}
+
+body {
+    margin: 0;
 }
