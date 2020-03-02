@@ -26,6 +26,5 @@ h1{
 .maintext,
 .indexbody{
   height: 75vh;
-  background-color: blue;
   background-image: url("whale.jpg");
 }
