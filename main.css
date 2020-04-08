@@ -36,7 +36,7 @@ h1{
   background-image: url("whale.jpg.jpg");
 }
 #wholething{
-  background-color: #AECFF2;
+  background-color: #FFFFFF;
 }
 #booktitle,
 #bookauthor {
@@ -74,5 +74,5 @@ body {
   float: left;
 }
 .maintext{
-  background-color:#AECFF2;  
+  background-color:#AECFF2;
 }
